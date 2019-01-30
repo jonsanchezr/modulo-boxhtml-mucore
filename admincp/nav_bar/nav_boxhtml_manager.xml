@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<nav_master>
+<nav_cat title="Modules HTML/Javascript" group="120">
+<nav_option link="index.php?get=boxhtml_manager" group="120">Caja HTML/Javascript</nav_option>
+</nav_cat>
+</nav_master>

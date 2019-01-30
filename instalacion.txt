@@ -1,0 +1,8 @@
+como se instala:
+1- copia todos los archivos en tu carpeta raiz donde tengas la web.
+2- coloca en el archivo index.php del template donde quieres q salga el box con el html, la siguente linea.
+
+<?php include_once("boxhtml.php") ?>
+
+3- colocar el script o contenido html en el area de administracion.
+4- no utilizar la comilla doble, solo usar la comilla simple.
